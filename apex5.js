@@ -1,9 +1,9 @@
 // Product Data
 const products = [
     { name: "Laptop", price: 800, image: "https://cdn1.smartprix.com/rx-ihkVyuxbZ-w280-h280/dell-precision-5550.webp" },
-    { name: "Phone", price: 500, image: "https://picsum.photos/id/1011/200/200" },
-    { name: "Headphones", price: 50, image: "https://picsum.photos/id/1020/200/200" },
-    { name: "Shoes", price: 70, image: "https://picsum.photos/id/1025/200/200" }
+    { name: "Phone", price: 500, image: "https://tse4.mm.bing.net/th/id/OIP.HxCUDuhXiUIYR73NuIvIvQHaEp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" },
+    { name: "Headphones", price: 50, image: "https://cdn.pixabay.com/photo/2023/05/27/08/20/headphones-8021022_960_720.jpg" },
+    { name: "Shoes", price: 70, image: "https://tse3.mm.bing.net/th/id/OIP.LwtzYNJJIDa0QHfsHFi2jgHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" }
   ];
   
   // Display Products
@@ -44,3 +44,4 @@ const products = [
   }
 
   
+
