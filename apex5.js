@@ -1,6 +1,6 @@
 // Product Data
 const products = [
-    { name: "Laptop", price: 800, image: "https://picsum.photos/id/1015/200/200" },
+    { name: "Laptop", price: 800, image: "https://cdn1.smartprix.com/rx-ihkVyuxbZ-w280-h280/dell-precision-5550.webp" },
     { name: "Phone", price: 500, image: "https://picsum.photos/id/1011/200/200" },
     { name: "Headphones", price: 50, image: "https://picsum.photos/id/1020/200/200" },
     { name: "Shoes", price: 70, image: "https://picsum.photos/id/1025/200/200" }
@@ -42,4 +42,5 @@ const products = [
     });
     document.getElementById('totalPrice').textContent = "Total: $"+total;
   }
+
   
